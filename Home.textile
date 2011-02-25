@@ -1,1 +1,14 @@
-Welcome to the bamtools wiki!
+BamTools is a project that provides both a C++ API and a command-line toolkit for reading, writing, and manipulating BAM (genome alignment) files. 
+
+h1. Documentation
+
+* [[Building and installing]]
+* [[Using the API]]
+* [[Using the toolkit]]
+* [[Mailing lists]]
+
+h1. Development
+
+* "Source":https://github.com/pezmaster31/bamtools
+* "Issues":https://github.com/pezmaster31/bamtools/issues
+* [[Mailing lists]]
