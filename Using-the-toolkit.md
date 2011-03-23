@@ -1,7 +1,1 @@
-Toolkit docs coming soon.
-
-## General Overview
-### Convert
-### Count
-
-etc
+Tutorial coming soon, but will be available [[here.|Tutorial_Toolkit_BamTools-1.0.pdf]]
