@@ -1,7 +1,9 @@
 ## Get BamTools
 The easiest way to get BamTools is to clone the git repository straight from GitHub:
 
+```console
 $ git clone git@github.com:pezmaster31/bamtools.git
+```
 
 Developers who would like to modify (and we hope, contribute to) BamTools directly, may fork the project using the 'Fork' button at the top of the BamTools homepage, then pull down their own version of BamTools.
 
@@ -14,7 +16,9 @@ major platforms, and indeed comes *out-of-the-box* with many Linux distributions
 
 To see if you have CMake (and if so, which version) try this command:
 
+```console
 $ cmake --version
+```
 
 BamTools requires CMake (version >= 2.6.4). If you are missing CMake or have an 
 older version, check your OS package manager (for Linux users) or download it here:
@@ -28,12 +32,11 @@ installation steps.
 
 In the top-level directory of BamTools, type the following commands:
 
+```console
   $ mkdir build
-
   $ cd build
-
   $ cmake ..
-
+```
 Microsoft Visual Studio users:
 This step creates a VS solution file (.sln), which can then be built to create 
 the toolkit executable and API DLL's.
@@ -41,21 +44,31 @@ the toolkit executable and API DLL's.
 Everybody else:
 After running cmake, just run:
 
+```console
   $ make
+```
 
 Then go back up to the BamTools root directory.
 
+```console
   $ cd ..
+```
 
 Assuming the build process finished correctly, you should be able to find the 
 toolkit executable here:
 
+```console
   ./bin/
+```
 
 The BamTools API and Utils libraries will be found here:
 
+```console
   ./lib/
+```
 
 The BamTools API headers will be found here:
  
+```console
   ./include/*
+```
