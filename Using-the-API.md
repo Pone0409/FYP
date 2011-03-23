@@ -1,7 +1,3 @@
-API docs coming soon.
+Doxygen-generated API documentation coming soon.
 
-## General Overview
-### BamAlignment
-### BamReader
-### BamWriter
-### SamHeader 
+Tutorial coming soon, but will be available [[here.|Tutorial_API_BamTools-1.0.pdf]]
