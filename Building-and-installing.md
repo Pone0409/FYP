@@ -7,8 +7,8 @@ Developers who would like to modify (and we hope, contribute to) BamTools direct
 
 ## Get CMake
 BamTools has been migrated to a CMake-based build system.  We believe that this 
-should simplify the build process across all platforms, especially as the 
-BamTools API moves into a shared library (that you link to instead of compiling 
+should simplify the build process across all platforms, especially with the 
+BamTools API now available primarily as a shared library (that you link to instead of compiling 
 lots of source files directly into your application). CMake is available on all 
 major platforms, and indeed comes *out-of-the-box* with many Linux distributions.
 
