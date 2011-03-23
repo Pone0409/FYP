@@ -1,1 +1,1 @@
-Tutorial coming soon, but will be available [[here.|Tutorial_Toolkit_BamTools-1.0.pdf]]
+Tutorial available [[here.|Tutorial_Toolkit_BamTools-1.0.pdf]] It is a work-in-progress, but should soon provide helpful tips on getting the most out of the command-line suite.
