@@ -2,4 +2,4 @@ A guide for porting applications from BamTools version 0.x to version 1.0 is ava
 
 Doxygen-generated API documentation coming soon.
 
-Tutorial coming soon, but will be available [[here.|Tutorial_API_BamTools-1.0.pdf]]
+Tutorial available [[here.|Tutorial_API_BamTools-1.0.pdf]] This provides an introduction to the API, examples of programming with BamTools, steps for linking to BamTools, as well as tips & tricks to enhance performance.
