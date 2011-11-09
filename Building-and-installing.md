@@ -2,7 +2,7 @@
 The easiest way to get BamTools is to clone the git repository straight from GitHub:
 
 ```console
-$ git clone git@github.com:pezmaster31/bamtools.git
+$ git clone git://github.com/pezmaster31/bamtools.git
 ```
 
 Developers who would like to modify (and we hope, contribute to) BamTools directly, may fork the project using the 'Fork' button at the top of the BamTools homepage, then pull down their own version of BamTools.
